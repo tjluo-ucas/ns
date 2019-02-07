@@ -40,18 +40,18 @@ Week | Date	| Topic | Reading	| Assignments
 2 |	3/7	|  Strong and weak ties|Ch. 3.1-3.3|PS1 Out
 3 |3/14	|Homophily, Affiliation; Friendship paradox|	  Ch. 4.1-4.3, Friendship paradox|	
 4 |3/21	|Structural Balance|	                          Ch. 5.1-5.4	               |PS1 Due, PS2 Out
-5|	    3/28|	Game Theory	                                  |Ch. 6.1-6.9|	
-6|	    4/4	 | Congestion, Auctions|	                      |  Ch. 8.1-8.2, 9.1-9.2|	
-7|	    4/7	  |Matching Markets	|                            |Ch 9.3-9.6, 10.1-10.4|	
-8|	    4/11	|Bargaining & Power	|                          |Ch. 12.1-12.3, 12.5-12.8|	 PS2 Due, PS3 Out
-9|	    4/18	|The Web as a Network|	                        |Ch 13.1-13.5|	
-10|	    4/25	|Link Analysis|	                               |Ch. 14.1-14.3|          	  PS3 Due
-10|    4/25,18:00/23:00（国科大雁栖湖校区学院2教室）       |Final presentations|     All participant
+5 |	3/28|	Game Theory	                                  |Ch. 6.1-6.9|	
+6 |	4/4	| Congestion, Auctions|	                      |  Ch. 8.1-8.2, 9.1-9.2|	
+7 |	4/7	|Matching Markets	|                            |Ch 9.3-9.6, 10.1-10.4|	
+8 |	4/11|Bargaining & Power	|                          |Ch. 12.1-12.3, 12.5-12.8|	 PS2 Due, PS3 Out
+9 |	4/18|The Web as a Network|	                        |Ch 13.1-13.5|	
+10|	4/25|Link Analysis|	                               |Ch. 14.1-14.3|          	  PS3 Due
+10| 4/25,18:00/23:00（国科大雁栖湖校区学院2教室）       |Project presentation|每个人15分钟，PPT不超过20页，提前打印或分发给大家  |所有人参加
 
 ### Evaluation
 1. Problem sets (50%) 2次作业，按时提交
 2. Collegiality (10%) ( 团队协作、课堂发言、给演讲者打分等)
-3. Final presentation (40%) （每个同学自选主题的演讲，每个人15分钟，PPT不超过20页，提前打印或分发给大家）
+3. Project presentation (40%) （每个同学讲解）
 ### Presentation topics
 学生选题范围如下:
 1. Web Search： Ch. 14.4-14.5
@@ -62,29 +62,4 @@ Week | Date	| Topic | Reading	| Assignments
 6. Small Worlds： Ch. 20.1-20.6, FB calculator
 7. Epidemics： Ch 21.1-21.4, 21.6
 8. 若在这个选题之外，提供相关文献，提前打印或分发给大家
-
-
-
-### Markdown 排版语言快速入门
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
