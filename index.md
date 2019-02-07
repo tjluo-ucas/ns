@@ -65,8 +65,8 @@ Week | Date	| Topic | Reading	| Assignments
 
 
 ~~~ ruby
-class Hello 
-
+Class Hello 
+  print "你好“
 end
 ~~~
 
