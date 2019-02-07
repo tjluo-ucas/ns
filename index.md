@@ -63,3 +63,10 @@ Week | Date	| Topic | Reading	| Assignments
 7. Epidemics： Ch 21.1-21.4, 21.6
 8. 若在这个选题之外，提供相关文献，提前打印或分发给大家
 
+
+~~~ ruby
+class Hello 
+
+end
+~~~
+
