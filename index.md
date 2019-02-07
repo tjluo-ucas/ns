@@ -3,6 +3,24 @@
 - 计算机科学与技术学院
 - 罗铁坚
 
+
+Lecture hours: Th, 8:30am-10:00am
+Lecture room: 国科大雁栖湖校区教1-107
+
+Instructor: 罗铁坚, Professor
+Email: tjluo [at] ucas.ac.cn
+Office location: 国科大雁栖湖校区学园2-418 
+Office hours: Th 3-4pm
+
+TA: 刘丹
+Email:  [at] 
+Office hours location: 国科大雁栖湖校区学园2-518 
+Office hours: Weds 2-5pm
+Course Description
+This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
+Lectures
+All reading is taken from Easley and Kleinberg, "Networks, Crowds, and Markets". The complete textbook is available online as a searchable PDF.
+
 ### Markdown 排版语言快速入门
 
 
