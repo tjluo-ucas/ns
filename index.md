@@ -56,14 +56,14 @@ All reading is taken from Easley and Kleinberg, "Networks, Crowds, and Markets".
 
 10.	    4/25	Link Analysis	                                Ch. 14.1-14.3           	  PS3 Due
 
-Final presentation
+10.    四月25日晚18:00/23:00（国科大雁栖湖校区学院2教室）       Final presentations     All participant
 
-四月25日晚18:00/23:00（国科大雁栖湖校区学院2教室）
 ### Evaluation
 1. Problem sets (50%) 2次作业，按时提交
 2. Collegiality (10%) ( 团队协作、课堂发言、给演讲者打分等)
 3. Final presentation (40%) （每个同学自选主题的演讲，每个人15分钟，PPT不超过20页，提前打印或分发给大家）
-学生选题范围如下（若在这个选题之外，提供相关文献，提前打印或分发给大家）。
+### Presentation topics
+学生选题范围如下:
 1. Web Search： Ch. 14.4-14.5
 2. Sponsored Search as a Market： Ch 15.1-15.5
 3. Information Cascades： Ch. 16.1-16.7
@@ -71,6 +71,7 @@ Final presentation
 5. Rich-get-richer： Ch 18.1-18.6
 6. Small Worlds： Ch. 20.1-20.6, FB calculator
 7. Epidemics： Ch 21.1-21.4, 21.6
+8. 若在这个选题之外，提供相关文献，提前打印或分发给大家
 
 
 
