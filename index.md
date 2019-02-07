@@ -4,8 +4,7 @@
 计算机科学与技术学院
 
 罗铁坚
-
-# 基本信息
+### 基本信息
 
 Lecture hours: Th, 8:30am-10:00am
 
@@ -28,17 +27,14 @@ Office hours location: 国科大雁栖湖校区学园2-518
 Office hours: Weds 2-5pm
 
 ### Course Description
-
 This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
 
 This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
-
 ### Textbook
-
 All reading is taken from Easley and Kleinberg, "Networks, Crowds, and Markets". The complete textbook is available online as a searchable PDF.
 ### schedule
 
-Week	Date	Topic	                                        Reading	                   Assignments
+0. Week	  Date	Topic	                                        Reading	                   Assignments
 
 1.	    2/28	Course overview; Introduction to graph theory	Ch. 1, 2.1-2.3	Visit https://github.com/tjluo-ucas/ns/blob/master/index.md
 
@@ -63,13 +59,10 @@ Week	Date	Topic	                                        Reading	                
 Final presentation
 
 四月25日晚18:00/23:00（国科大雁栖湖校区学院2教室）
-
 ### Evaluation
-
 1. Problem sets (50%) 2次作业，按时提交
 2. Collegiality (10%) ( 团队协作、课堂发言、给演讲者打分等)
 3. Final presentation (40%) （每个同学自选主题的演讲，每个人15分钟，PPT不超过20页，提前打印或分发给大家）
-
 学生选题范围如下（若在这个选题之外，提供相关文献，提前打印或分发给大家）。
 1. Web Search： Ch. 14.4-14.5
 2. Sponsored Search as a Market： Ch 15.1-15.5
