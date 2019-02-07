@@ -30,38 +30,15 @@ Office hours: Weds 2-5pm
 This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
 
 This course provides an introduction to how networks underly our social, technological, and natural worlds, with an emphasis on developing intuitions for broadly applicable concepts in network analysis. The course will include: an introduction to graph theory and graph concepts; social networks; information networks; the aggregate behavior of markets and crowds; network dynamics; information diffusion; the implications of popular concepts such as "six degrees of separation", the "friendship paradox", and the "wisdom of crowds".
+### Textbook
+All reading is taken from Easley and Kleinberg, "Networks, Crowds, and Markets". The complete textbook is available online as a searchable PDF.
+### Schedule
 
-### Syllabus Details
-#### Learning goals
+Week | Date	| Topic | Reading	| Assignments
+-----|------|-------|---------|------------
+1 |  2/28 |	Course overview; Introduction to graph theory	|Ch. 1, 2.1-2.3|	Visit https://github.com/tjluo-ucas/ns/blob/master/index.md
 
-Understand basic graph theory and network analysis
-
-Understand basic game theory and strategic behavior
-
-Develop a quantitative and qualitative intuition for the role of networks in social and technological systems.
-
-#### Prerequisites
-
-Almost no mathematical knowledge is assumed other than some basic probability (random variables, expectation, independence), which we will briefly review when it first arises.
-
-#### Material
-
-Easley and Kleinberg, Networks, Crowds, and Markets, Cambridge University Press, 2010
-The complete textbook is available online as a free PDF, but can also be ordered as a reasonably priced hardcover.
-
-#### Problem Set Rules
-1. All problem sets are to be submitted during the corresponding lecture day. 
-2. Collaboration policy: You may discuss the problem sets with other students in the class, but since the goal is to practice skills, the actual writing up of the solutions must be done separately. In particular, this means that your solution should not word-for-word resemble another student's. In short, students are expected to abide by UCAS’s honor code.
-3. Late Policy: No late assignments will be accepted.
-4. Extreme circumstances: email or come see me, I am a reasonable human being.
-
-### schedule
-
-0. Week	  Date	Topic	                                        Reading	                   Assignments
-
-1.	    2/28	Course overview; Introduction to graph theory	Ch. 1, 2.1-2.3	Visit https://github.com/tjluo-ucas/ns/blob/master/index.md
-
-2.	    3/7	  Strong and weak ties	                        Ch. 3.1-3.3	               PS1 Out
+2 |	  3/7	|  Strong and weak ties	                     |   Ch. 3.1-3.3 |	               PS1 Out
 
 3.	    3/14	Homophily, Affiliation; Friendship paradox	  Ch. 4.1-4.3, Friendship paradox	
 
@@ -98,9 +75,6 @@ The complete textbook is available online as a free PDF, but can also be ordered
 
 
 
-
-
-
 ### Markdown 排版语言快速入门
 
 
@@ -124,10 +98,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjluo-ucas/ns/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
