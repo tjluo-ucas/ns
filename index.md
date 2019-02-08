@@ -1,4 +1,3 @@
-{% include toc.html html=content %}
 ## 网络科学讲义（2019版）
 中国科学院大学
 
@@ -7,7 +6,7 @@
 罗铁坚
 ### 基本信息
 
-Lecture hours: Th, 8:30am-10:00am
+Lecture hours: Thur, 8:30am-10:00am
 
 Lecture room: 国科大雁栖湖校区教1-107
 
@@ -17,7 +16,7 @@ Email: tjluo [at] ucas.ac.cn
 
 Office location: 国科大雁栖湖校区学园2-418 
 
-Office hours: Th 3-4pm
+Office hours: Thur 3-4pm
 
 TA: 刘丹
 
@@ -53,8 +52,8 @@ Week | Date	| Topic | Reading	| Assignments
 1. Problem sets (50%) 2次作业，按时提交
 2. Collegiality (10%) ( 团队协作、课堂发言、给演讲者打分等)
 3. Project presentation (40%) （每个同学讲解）
-### Presentation topics
-学生选题范围如下:
+
+### Proposed Presentation topics
 1. Web Search： Ch. 14.4-14.5
 2. Sponsored Search as a Market： Ch 15.1-15.5
 3. Information Cascades： Ch. 16.1-16.7
