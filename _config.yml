@@ -1,7 +1,8 @@
 theme: jekyll-theme-leap-day
-title: [Network Science 2019]
-description: [中国科学院大学
-计算机科学与技术学院]
+name: Network Science 2019
+description: 中国科学院大学 计算机科学与技术学院
+github: https://github.com/tjluo-ucas/ns
+resume_site: http://people.ucas.ac.cn/~tjluo
 
 permalink: /:year/:month/:day/:title/
 
