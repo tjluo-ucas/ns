@@ -2,7 +2,7 @@
 layout: post
 title: Textbook
 permalink: /books/
-path: "/docs/networks-book.pdf"
+path: /docs/networks-book.pdf
 pdf: true
 ---
 
