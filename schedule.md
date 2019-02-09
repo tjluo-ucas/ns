@@ -18,7 +18,7 @@ Week | Date	| Topic | Reading	| Assignments
 8 |	4/11|Bargaining & Power	|Ch. 12.1-12.3, 12.5-12.8|PS2 Due, PS3 Out
 9 |	4/18|The Web as a Network|Ch 13.1-13.5|	
 10|	4/25|Link Analysis|	  Ch. 14.1-14.3| PS3 Due
-10| 4/25 *** |Project presentation|15分钟，20页，提前打印 |所有人参加
+10| 4/25 *** |Project presentation|每人15分钟和不超过20页ppt。提前打印 |所有人参加
 
 
 #### *** 18:00 - 23:00 国科大雁栖湖校区学院2教室
