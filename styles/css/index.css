@@ -13,6 +13,9 @@ section,
 summary {
   display: block;
 }
+article {
+  overflow: auto;
+}
 audio,
 canvas,
 video {
