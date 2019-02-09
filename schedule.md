@@ -5,7 +5,6 @@ permalink: /schedule/
 title:  "Timetable"
 date:   2019-02-09 08:00:01 +0800
 ---
-### Schedule
 
 Week | Date	| Topic | Reading	| Assignments
 -----|------|-------|---------|------------
