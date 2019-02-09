@@ -9,7 +9,7 @@ pdf: true
 * content
 {:toc}
 
-Networks, Crowds, and Markets:Reasoning about a Highly Connected World
+# Networks, Crowds, and Markets: Reasoning about a Highly Connected World
 
 
 
