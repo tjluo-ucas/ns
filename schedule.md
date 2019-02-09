@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 推荐书单
+title: 课程表
 permalink: /schedule/
+title:  "Timetable"
+date:   2019-02-09 08:00:01 +0800
 ---
 ### Schedule
 
