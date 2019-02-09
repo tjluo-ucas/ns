@@ -11,5 +11,7 @@ pdf: true
 
 # Networks, Crowds, and Markets: Reasoning about a Highly Connected World
 
+[download-pdf](/ns/docs/networks-book.pdf)
+
 
 
