@@ -2,7 +2,7 @@
 layout: post
 title: Textbook
 permalink: /books/
-path: "https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf"
+path: "/docs/networks-book.pdf"
 pdf: true
 ---
 
