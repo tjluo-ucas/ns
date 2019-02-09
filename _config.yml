@@ -9,3 +9,8 @@ resume_site: http://people.ucas.ac.cn/~tjluo
 baseurl: "/ns"
 permalink: /:year/:month/:day/:title/
 
+plugins:
+  - jekyll-toc
+
+
+
