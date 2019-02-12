@@ -12,5 +12,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-toc
 
+# Build settings
+markdown: kramdown
 
 
