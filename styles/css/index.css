@@ -6540,7 +6540,7 @@ hr {
 .docs-nav .navbar-nav > .active > span,
 .docs-nav .navbar-nav > .active > a:hover,
 .docs-nav .navbar-nav > .active > span:hover {
-  color: #fff;
+  color: rgb(136, 238, 190);
   background-color: rgba(0, 0, 0, 0.2);
 }
 .docs-nav .navbar-toggle {
