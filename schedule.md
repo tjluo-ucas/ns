@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 课程表
+title: 课程表jkjk
 permalink: /schedule/
 title:  "Timetable"
 date:   2019-02-09 08:00:01 +0800
