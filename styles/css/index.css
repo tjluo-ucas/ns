@@ -6530,11 +6530,11 @@ hr {
 }
 .docs-nav .navbar-nav > li > a,
 .docs-nav .navbar-nav > li > span {
-  color: #b9c8e0;
+  color: #fff;
 }
 .docs-nav .navbar-nav > li > a:hover,
 .docs-nav .navbar-nav > li > span:hover {
-  color: #fff;
+  color: rgb(136, 238, 190);
 }
 .docs-nav .navbar-nav > .active > a,
 .docs-nav .navbar-nav > .active > span,
