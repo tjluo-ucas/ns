@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 课程表
 permalink: /schedule/
 title:  "Timetable"
-date:   2019-02-09 08:00:01 +0800
+banner: 课程表
 ---
 
 Week | Date	| Topic | Reading	| Assignments

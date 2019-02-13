@@ -5,6 +5,7 @@ permalink: /books/
 path: /docs/networks-book.pdf
 alt-path: https://www.cs.cornell.edu/home/kleinber/networks-book/networks-book.pdf
 pdf: true
+banner: 教科书
 ---
 
 * content
