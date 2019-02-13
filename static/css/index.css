@@ -6463,8 +6463,8 @@ hr {
 .sidebar .nav > .active:focus > a {
   font-weight: bold;
   color: #1d365d;
-  background-color: #fff;
-  border-right: 1px solid #1d365d;
+  background-color: #e8ebee;
+  /* border-right: 1px solid #1d365d; */
 }
 .sidebar .nav .nav {
   display: none;
