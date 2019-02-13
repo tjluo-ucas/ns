@@ -19,15 +19,15 @@ layout: default
               <div class="meta">Posted on <span class="postdate">{{ page.date | date: "%b %d, %Y" }}</span> By <a target="_blank" href="{{site.url}}">{{ site.author }}</a></div>
               <br />
             </header>
+            {%if page.pdf %}
+              <h5>
+                {{page.pdf-title}}
+              </h5>
+              {% include pdf.html %}
+            {% endif %}
             <article class="post-content">
               {{ content }}
             </article>
-            {%if page.pdf %}
-              {% include pdf.html %}
-              <article class="post-content">
-                  {{ content-2 }}
-              </article>
-            {% endif %}
         </div>
       </div>
     </div>
