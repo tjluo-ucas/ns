@@ -7131,7 +7131,9 @@ td.visible-print {
 * Tables
 */
 table {
+  display: block;
   overflow-x: auto;
+  white-space: nowrap;
   -webkit-overflow-scrolling: touch;
           -ms-overflow-style: -ms-autohiding-scrollbar;
 }
