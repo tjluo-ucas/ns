@@ -6531,6 +6531,7 @@ hr {
 .docs-nav .navbar-nav > li > a,
 .docs-nav .navbar-nav > li > span {
   color: #fff;
+  font-size: 18px;
 }
 .docs-nav .navbar-nav > li > a:hover,
 .docs-nav .navbar-nav > li > span:hover {
