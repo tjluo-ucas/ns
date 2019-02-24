@@ -14,27 +14,23 @@ title:  "Intro"
 
 ### 学者们往往都对网络是如何形成、它又如何演化以及对个体节点或某些群体产生影响等问题进行探索研究。
 
-### 为了理解和分享各学科领域利用网络语言建模分析获取的知识或成果，我们需要用计算机软件的形式把这些知识成果来展现出来，为其他学科领域专家吸收利用，并进一步发扬光大。这门课是用信息科学的视角看各种应用领域问题的网络模型、数据集、算法和软件工具。
-
-![network science concerns]( )
-
 * '1736年欧拉解决著名七桥不重复游走问题（论文 “The solution of a problem relating to the geometry of position”）创立了图论。'
 
 ![seven-bridge-problem1.jpg](https://tjluo-ucas.github.io/ns/static/img/seven-birdge-problem1.png)
 
-* 1878年 在化学应用 (Sylvester, 1878)。
+* 1878年 Sylvester 把网络应用到化学领域。
 
-* 1933年 Jacob Moreno 把图论应用到心理学（社会网络分析）。
+* 1933年 Jacob Moreno 把图论应用到心理学，发展了社会网络分析方法。
 
-* 1936年 Dénes Kőnig 写第一本图论书。
+* 1936年 Dénes Kőnig 写出了第一本图论的论著。
 
-* 1959年 Paul Erdős and Alfréd Rényi 把概率引入图论，提出了随机图网络理论（8篇著名文章）。
+* 1959年 Paul Erdős和Alfréd Rényi 把概率引入图论，提出了随机图网络理论。
 
-* 1998年 David Krackhardt and Kathleen Carley 提出元网络PCANS模型分析组织行为。
+* 1998年 David Krackhardt和Kathleen Carley 提出元网络PCANS模型分析组织行为。
 
-* 1998年 Watts 提出小世界网络。"Collective dynamics of 'small-world' networks" . Nature. 393 (6684): 440–442。![论文](http://labs.yahoo.com/files/w_s_NATURE_0.pdf)
+* 1998年 Watts 提出小世界网络理论。"Collective dynamics of 'small-world' networks" . Nature. 393 (6684): 440–442。![论文](https://tjluo-ucas.github.io/ns/static/img/watt-nature.pdf)
 
-* 1999年 Barabási等提出无标度网络。"Emergence of scaling in random networks". Science. 286 (5439): 509–512。![论文](https://arxiv.org/abs/cond-mat/9910332)
+* 1999年 Barabási等提出无标度网络。"Emergence of scaling in random networks". Science. 286 (5439): 509–512。![论文](https://tjluo-ucas.github.io/ns/static/img/Science-Barabasi.pdf)
 
 * ......
 
