@@ -1,6 +1,6 @@
 <footer class="footer" role="contentinfo">
 	<div class="container">
-		<p class="copyright">Copyright &copy; 2019<a href="{{site.resume_site}}"><code>{{ site.author }}</code></a>.</p>
+		<p class="copyright">Copyright &copy; 2018 - <span id="this_year_"></span> <a href="{{site.resume_site}}"><code>{{ site.author }}</code></a>.</p>
 		<p>中国科学院大学 计算机科学与技术学院</p>
 		<p>
 			Powered by <a href="http://jekyllrb.com">Jekyll</a>, themed from <a href="http://lesscss.cn/">Less</a>
@@ -15,5 +15,6 @@
 <script>
 		$("a[href='" + location.pathname + "']").addClass("active");
 		$("img").parents('p').css("overflow-x", "auto");
+		$("#this_year_").text(new Date().getUTCFullYear());
 </script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
