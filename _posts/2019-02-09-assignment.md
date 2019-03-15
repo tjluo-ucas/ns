@@ -11,7 +11,7 @@ permalink: /assignment/
 
 第一次作业 {#a1}
 ----------------
-[参考论文](https://tjluo-ucas.github.io/ns/docs/homework1.pdf)
+[参考论文](https://tjluo-ucas.github.io/ns/docs/broder00bowtie.pdf)
 
 [作业](https://tjluo-ucas.github.io/ns/docs/homework1.pdf)
 
