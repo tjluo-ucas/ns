@@ -13,9 +13,9 @@ permalink: /assignment/
 ----------------
 [参考论文](/ns/docs/broder00bowtie.pdf)
 
-[作业](https://tjluo-ucas.github.io/ns/docs/homework1.pdf)
+[作业](/ns/docs/homework1.pdf)
 
-[说明](https://tjluo-ucas.github.io/ns/docs/网络科学第一次作业说明.pdf)
+[说明](/ns/docs/网络科学第一次作业说明.pdf)
 
 
 布置时间：2019/3/16，截止时间： 2019/3/25
