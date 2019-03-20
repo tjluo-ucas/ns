@@ -26,9 +26,9 @@ title:  "Intro"
 
 1998年 David Krackhardt和Kathleen Carley 提出了元网络PCANS模型分析组织行为。
 
-1998年 Watts等 提出小世界网络理论。"Collective dynamics of 'small-world' networks" . Nature. 393 (6684): 440–442。[论文](https://tjluo-ucas.github.io/ns/static/img/watt-nature.pdf)
+1998年 Watts等 提出小世界网络理论。"Collective dynamics of 'small-world' networks" . Nature. 393 (6684): 440–442。[论文](https://tjluo-ucas.github.io/ns/docs/watt-nature.pdf)
 
-1999年 Barabási等 提出无标度网络。"Emergence of scaling in random networks". Science. 286 (5439): 509–512。[论文](https://tjluo-ucas.github.io/ns/static/img/Science-Barabasi.pdf)
+1999年 Barabási等 提出无标度网络。"Emergence of scaling in random networks". Science. 286 (5439): 509–512。[论文](https://tjluo-ucas.github.io/ns/docs/Science-Barabasi.pdf)
 
 ......
 
