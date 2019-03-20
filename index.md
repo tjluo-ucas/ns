@@ -12,7 +12,7 @@ title:  "Intro"
 
 数学、物理学、生物学、计算机科学、社会科学等学科专家都分别从各自关注点和角度对其进行研究，取得了有影响的研究成果。他们对网络的形成、演化，个体节点或某些群体相互影响等共性问题上表现出了极大的兴趣。
 
-1736年欧拉解决著名七桥不重复游走问题（论文 “The solution of a problem relating to the geometry of position”）创立了图论。
+1736年欧拉解决著名七桥不重复游走问题（[论文 “The solution of a problem relating to the geometry of position”](https://tjluo-ucas.github.io/ns/docs/Euler.pdf)）创立了图论。
 
 ![seven-bridge-problem1.jpg](https://tjluo-ucas.github.io/ns/static/img/seven-birdge-problem1.png)
 
